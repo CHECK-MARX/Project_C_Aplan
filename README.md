@@ -41,4 +41,5 @@ AUTO mode enforces fan level, airflow, defrost, and AC engagement based on the c
 
 - Simulation tick runs at 60 Hz via a timer and high-resolution clock, and the HVAC thermal model follows the provided first-order dynamics.
 - The UI renderer uses off-screen bitmaps for flicker-free GDI painting and keeps all GDI objects owned by `UiState`.
+- Speed and RPM gauges now show colored safety bands (green/yellow/red) plus numeric tick labels for faster readability.
 # Project_C_Aplan

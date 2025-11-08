@@ -1,0 +1,10 @@
+.vs/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+/Project_C_Aplan_scan/
+codex_build.bat
